@@ -11,7 +11,7 @@ I am active member of [BHAU’s Entrepreneurship Cell](https://www.coep.org.in/c
 
 
 
-<hr style="border:2px solid gray"> </hr>
+<hr tyle="border:2px solid gray"></hr>
 
 ### __Contact__
 
