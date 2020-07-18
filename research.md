@@ -15,7 +15,7 @@ I am currently working as research intern in the project based on speech process
 * When a user uploads his/her audio sample the web gives the prediction about the presence of disorder if any and generates a report in pdf format. 
 
 
-### __Academic Projects__
+### <ins>__Academic Projects__</ins>
 
 * __Pedestrian Detection and Direction Prediction Using Video Processing__
     
