@@ -13,6 +13,8 @@ I am active member of [BHAU’s Entrepreneurship Cell](https://www.coep.org.in/c
 
 <hr style="border:2px solid gray"> </hr>
 
+### __Contact__
+
 Personal Email ID: [agrawalvaishnavi01@gmail.com]
 
 College Email ID: [agrawalvj17.extc@coep.ac.in]
