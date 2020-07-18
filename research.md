@@ -41,6 +41,8 @@ I am currently working as research intern in the project based on speech process
 
 <hr style="border:2px solid gray"> </hr>
 
+### __Contact__
+
 Personal Email ID: [agrawalvaishnavi01@gmail.com]
 
 College Email ID: [agrawalvj17.extc@coep.ac.in]
