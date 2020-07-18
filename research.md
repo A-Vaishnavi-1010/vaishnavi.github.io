@@ -39,7 +39,7 @@ I am currently working as research intern in the project based on speech process
     A system is implemented with a sensor, a microcontroller and an actuator. The direction of sunlight is observed and the solar panels are rotated accordingly for maximum utilization of available sunlight.
 
 
-<hr style="border:2px solid gray"> </hr>
+<hr style="border:2px solid gray"></hr>
 
 ### __Contact__
 
