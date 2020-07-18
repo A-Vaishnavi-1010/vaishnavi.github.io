@@ -15,6 +15,6 @@ I am active member of [BHAU’s Entrepreneurship Cell](https://www.coep.org.in/c
 
 ### __Contact__
 
-Personal Email ID: [agrawalvaishnavi01@gmail.com]
+Personal Email ID: [agrawalvaishnavi01@gmail.com](agrawalvaishnavi01@gmail.com)
 
 College Email ID: [agrawalvj17.extc@coep.ac.in]
