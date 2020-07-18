@@ -15,7 +15,7 @@
     
     
     
-<hr style="border:2px solid gray"></hr>
+<hr style="border:2px solid gray">
 
 ### __Contact__
     
