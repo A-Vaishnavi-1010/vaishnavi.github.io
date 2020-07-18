@@ -14,9 +14,11 @@
     Instructor: Charles Russell Severance
     
     
-    <hr style="border:2px solid gray"> </hr>
     
+<hr style="border:2px solid gray"> </hr>
+
+### __Contact__
     
-    Personal Email ID: [agrawalvaishnavi01@gmail.com]
+Personal Email ID: [agrawalvaishnavi01@gmail.com]
     
-    College Email ID: [agrawalvj17.extc@coep.ac.in]
+College Email ID: [agrawalvj17.extc@coep.ac.in]
