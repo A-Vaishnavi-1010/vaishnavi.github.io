@@ -1,4 +1,4 @@
-### <p style='color:green'>__About__</p>
+### __About__
 
 I am a final year undergraduate student at [College of Engineering Pune](https://www.coep.org.in/) pursuing B-tech major in [Electronics and Telecommunication Engineering](https://www.coep.org.in/departments/entc) and minor in [Computer Science Engineering](https://www.coep.org.in/departments/computerit).
 
