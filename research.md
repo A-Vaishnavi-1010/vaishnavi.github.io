@@ -36,8 +36,8 @@ I am currently working as research intern in the project based on speech process
 
 
 
-## Personal Email ID: [agrawalvaishnavi01@gmail.com]
-## College Email ID: [agrawalvj17.extc@coep.ac.in]
+Personal Email ID: [agrawalvaishnavi01@gmail.com]
+College Email ID: [agrawalvj17.extc@coep.ac.in]
 
 
 
