@@ -16,7 +16,7 @@ I am currently working as research intern in the project based on speech process
 
 * When a user uploads his/her audio sample the web gives the prediction about the presence of disorder if any and generates a report in pdf format. 
 
-<hr style="border:2px solid gray"> </hr>
+<hr style="border:2px solid gray"></hr>
 
 
 
