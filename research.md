@@ -1,4 +1,4 @@
-### __Research Projects__
+### <ins>__Research Projects__</ins>
 
 I am currently working as research intern in the project based on speech processing and machine learning offered by SPIRE Lab of IISc. In this project, I am getting hands on experience in speech processing, machine learning model implementation and python framework Django.
 
@@ -37,6 +37,7 @@ I am currently working as research intern in the project based on speech process
 
 
 Personal Email ID: [agrawalvaishnavi01@gmail.com]
+
 College Email ID: [agrawalvj17.extc@coep.ac.in]
 
 
