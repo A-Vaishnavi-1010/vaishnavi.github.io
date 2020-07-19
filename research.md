@@ -1,55 +1,91 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
 
-<a href="/index.md"><img src="header_final.PNG" height="150"/></a><a href="/research.md"><img src = "Research_tab.PNG" width="100"></a>
-<a href="/courses.md"><img src = "Courses_tab.PNG" width="100"></a>
+<!-- Begin Jekyll SEO tag v2.6.1 -->
+<title>Vaishnavi Agrawal | College of Engineering, Pune</title>
+<meta name="generator" content="Jekyll v3.8.7" />
+<meta property="og:title" content="Vaishnavi Agrawal" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="College of Engineering, Pune" />
+<meta property="og:description" content="College of Engineering, Pune" />
+<link rel="canonical" href="https://a-vaishnavi-1010.github.io/vaishnavi.github.io/" />
+<meta property="og:url" content="https://a-vaishnavi-1010.github.io/vaishnavi.github.io/" />
+<meta property="og:site_name" content="Vaishnavi Agrawal" />
+<script type="application/ld+json">
+{"headline":"Vaishnavi Agrawal","@type":"WebSite","url":"https://a-vaishnavi-1010.github.io/vaishnavi.github.io/","name":"Vaishnavi Agrawal","description":"College of Engineering, Pune","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
 
-### <ins>__Research Projects__</ins>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#157878">
+    <link rel="stylesheet" href="/vaishnavi.github.io/assets/css/style.css?v=75520490651d240bed486f8d71503b2e8c3a1860">
+  </head>
+  <body>
+    
+    <section class="main-content">
+      
+<p><a href="/index.html"><img src="header_final.PNG" height="150" /></a><a href="/research.html"><img src="Research_tab.PNG" width="100" /></a>
+<a href="/courses.html"><img src="Courses_tab.PNG" width="100" /></a></p>
 
-#### __Internship at IISc Bangalore__
-
-I am currently working as research intern in the project based on speech processing and machine learning offered by [SPIRE Lab](https://spire.ee.iisc.ac.in/spire/) of IISc. In this project, I am getting hands on experience in speech processing, machine learning model implementation and python framework Django.
-
-##### __Project Description:__
-
-* Developing a web interface which will take particular kind of phonation from user and predict if any vocal disorder is present
-
-* Python framework Django is used for web development
-
-* First the audio input is taken from the user. The speech features essential for particular kind of prediction is extracted using python speech processing libraries praat-parselmouth and librosa.
-
-* The machine learning models are developed and deployed for prediction. 
-
-* When a user uploads his/her audio sample the web gives the prediction about the presence of disorder if any and generates a report in pdf format. 
-
+<h3 id="-ins-__research-projects__-ins-"><ins><strong>Research Projects</strong></ins></h3>
+<h4 id="__internship-at-iisc-bangalore__"><strong>Internship at IISc Bangalore</strong></h4>
+<p>I am currently working as research intern in the project based on speech processing and machine learning offered by <a href="https://spire.ee.iisc.ac.in/spire/">SPIRE Lab</a> of IISc. In this project, I am getting hands on experience in speech processing, machine learning model implementation and python framework Django.</p>
+<h5 id="__project-description-__"><strong>Project Description:</strong></h5>
+<ul>
+<li><p>Developing a web interface which will take particular kind of phonation from user and predict if any vocal disorder is present</p>
+</li>
+<li><p>Python framework Django is used for web development</p>
+</li>
+<li><p>First the audio input is taken from the user. The speech features essential for particular kind of prediction is extracted using python speech processing libraries praat-parselmouth and librosa.</p>
+</li>
+<li><p>The machine learning models are developed and deployed for prediction. </p>
+</li>
+<li><p>When a user uploads his/her audio sample the web gives the prediction about the presence of disorder if any and generates a report in pdf format. </p>
+</li>
+</ul>
 <hr style="border:1px solid gray">
 
 
 
-### <ins>__Academic Projects__</ins>
-
-* __Pedestrian Detection and Direction Prediction using Video Processing__ [[code](https://github.com/A-Vaishnavi-1010/Pedestrian_Project)] [[ppt](https://github.com/A-Vaishnavi-1010/Pedestrian_Project)]
-    
-    The system used input video of pedestrian and three different approaches are implemented to detect the pedestrian and predict the direction of motion using video processing in MATLAB.
-
-* __Counting number of coins in an image using Image Processing__ [[code](https://github.com/A-Vaishnavi-1010/Coins_Project)] [[Report](https://github.com/A-Vaishnavi-1010/Coins_Project)]
-
-    Region segmentation is performed using different image processing techniques and hence identified coins and calculated the area of coin using MATLAB.
-
-* __Bank Management System__ [[code](https://github.com/A-Vaishnavi-1010/Banking_System_Project)]
-    
-    Bank management system is implemented using Object Oriented Programming and file handling to create, modify, delete bank account and perform different tasks like money deposit, withdraw, balance check, etc.
-
-* __Rotation of Solar Panels for Maximum Utilization of Sunlight__ [[code](https://github.com/A-Vaishnavi-1010/Solar_Panels_Project)] [[Report](https://github.com/A-Vaishnavi-1010/Solar_Panels_Project)]
-    
-    A system is implemented with a sensor, a microcontroller and an actuator. The direction of sunlight is observed and the solar panels are rotated accordingly for maximum utilization of available sunlight.
-
-
+<h3 id="-ins-__academic-projects__-ins-"><ins><strong>Academic Projects</strong></ins></h3>
+<ul>
+<li><p><strong>Pedestrian Detection and Direction Prediction using Video Processing</strong> [<a href="https://github.com/A-Vaishnavi-1010/Pedestrian_Project">code</a>] [<a href="https://github.com/A-Vaishnavi-1010/Pedestrian_Project">ppt</a>]</p>
+<p>  The system used input video of pedestrian and three different approaches are implemented to detect the pedestrian and predict the direction of motion using video processing in MATLAB.</p>
+</li>
+<li><p><strong>Counting number of coins in an image using Image Processing</strong> [<a href="https://github.com/A-Vaishnavi-1010/Coins_Project">code</a>] [<a href="https://github.com/A-Vaishnavi-1010/Coins_Project">Report</a>]</p>
+<p>  Region segmentation is performed using different image processing techniques and hence identified coins and calculated the area of coin using MATLAB.</p>
+</li>
+<li><p><strong>Bank Management System</strong> [<a href="https://github.com/A-Vaishnavi-1010/Banking_System_Project">code</a>]</p>
+<p>  Bank management system is implemented using Object Oriented Programming and file handling to create, modify, delete bank account and perform different tasks like money deposit, withdraw, balance check, etc.</p>
+</li>
+<li><p><strong>Rotation of Solar Panels for Maximum Utilization of Sunlight</strong> [<a href="https://github.com/A-Vaishnavi-1010/Solar_Panels_Project">code</a>] [<a href="https://github.com/A-Vaishnavi-1010/Solar_Panels_Project">Report</a>]</p>
+<p>  A system is implemented with a sensor, a microcontroller and an actuator. The direction of sunlight is observed and the solar panels are rotated accordingly for maximum utilization of available sunlight.</p>
+</li>
+</ul>
 <hr style="border:1px solid gray">
 
-### __Contact__
+<h3 id="__contact__"><strong>Contact</strong></h3>
+<p>Personal Email ID: agrawalvaishnavi01@gmail.com</p>
+<p>College Email ID: agrawalvj17.extc@coep.ac.in</p>
 
-Personal Email ID: [agrawalvaishnavi01@gmail.com]
+<hr tyle="border:1px solid gray" />
 
-College Email ID: [agrawalvj17.extc@coep.ac.in]
+<h3 id="contact"><strong>Contact</strong></h3>
+
+<p>Personal Email ID: agrawalvaishnavi01@gmail.com</p>
+
+<p>College Email ID: agrawalvj17.extc@coep.ac.in</p>
 
 
+      <footer class="site-footer">
+        
+          <span class="site-footer-owner"><a href="https://github.com/A-Vaishnavi-1010/vaishnavi.github.io">vaishnavi.github.io</a> is maintained by <a href="https://github.com/A-Vaishnavi-1010">A-Vaishnavi-1010</a>.</span>
+        
+        <span class="site-footer-credits">This page was generated by <a href="https://pages.github.com">GitHub Pages</a>.</span>
+      </footer>
+    </section>
 
+    
+  </body>
+</html>
