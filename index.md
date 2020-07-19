@@ -1,6 +1,6 @@
 
-<a href="/index.html"><img src="header_final.PNG" height="150"/></a><a href="/research.html"><img src = "Research_tab.PNG" width="80"></a>
-<a href="/courses.html"><img src = "Courses_tab.PNG" width="80"></a>
+<a href="/index.md"><img src="header_final.PNG" height="150"/></a><a href="/research.md"><img src = "Research_tab.PNG" width="100"></a>
+<a href="/courses.md"><img src = "Courses_tab.PNG" width="100"></a>
 
 
 ### __About__
