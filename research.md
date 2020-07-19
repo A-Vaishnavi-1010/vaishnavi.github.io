@@ -2,7 +2,7 @@
 
 #### __Internship at IISc Bangalore__
 
-I am currently working as research intern in the project based on speech processing and machine learning offered by SPIRE Lab of IISc. In this project, I am getting hands on experience in speech processing, machine learning model implementation and python framework Django.
+I am currently working as research intern in the project based on speech processing and machine learning offered by [SPIRE Lab](https://spire.ee.iisc.ac.in/spire/) of IISc. In this project, I am getting hands on experience in speech processing, machine learning model implementation and python framework Django.
 
 ##### __Project Description:__
 
