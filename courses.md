@@ -1,3 +1,7 @@
+
+<a href="/index.md"><img src="header_final.PNG" height="150"/></a><a href="/research.md"><img src = "Research_tab.PNG" width="100"></a>
+<a href="/courses.md"><img src = "Courses_tab.PNG" width="100"></a>
+
 ### <ins>__Courses__</ins>
 
 
