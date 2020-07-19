@@ -1,4 +1,4 @@
-![](Header_cropped.PNG)
+![](header_final.PNG)
 ![](Research.PNG)
 ![](Courses.PNG)
 
