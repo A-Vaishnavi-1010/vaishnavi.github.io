@@ -1,6 +1,6 @@
 ![](header_final.PNG)
-![](Research.PNG)
-![](Courses.PNG)
+![](Research_tab.PNG)
+![](Courses_tab.PNG)
 
 <hr tyle="border:1px solid gray">
 
