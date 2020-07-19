@@ -1,11 +1,5 @@
 ![](header_final.PNG)
-
-
-
-
-
-
-![[](Research.PNG)](https://a-vaishnavi-1010.github.io/vaishnavi.github.io/research)
+![](Research.PNG)
 ![](Courses.PNG)
 
 <hr tyle="border:1px solid gray">
