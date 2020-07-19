@@ -1,4 +1,6 @@
-![](Header.PNG)
+![](Header_cropped.PNG)
+![](Research.PNG)
+![](Courses.PNG)
 
 ### __About__
 
