@@ -1,8 +1,9 @@
 ![](header_final.PNG)
 ![](Research_tab.PNG)
 ![](Courses_tab.PNG)
+<a href="/index.html"><img src="header_final.PNG" height="150"/></a><a href="/research.html"><img src = Research_tab.PNG width="80"></a>
+<a href="/courses.html"><img src = Courses_tab.PNG width="80"></a>
 
-<hr tyle="border:1px solid gray">
 
 ### __About__
 
