@@ -5,7 +5,7 @@
 
 
 
-![](Research.PNG)
+![[](Research.PNG)](https://a-vaishnavi-1010.github.io/vaishnavi.github.io/research)
 ![](Courses.PNG)
 
 <hr tyle="border:1px solid gray">
