@@ -22,19 +22,19 @@ I am currently working as research intern in the project based on speech process
 
 ### <ins>__Academic Projects__</ins>
 
-* __Pedestrian Detection and Direction Prediction using Video Processing__ [code](https://github.com/A-Vaishnavi-1010/Pedestrian_Project)[ppt](https://github.com/A-Vaishnavi-1010/Pedestrian_Project)
+* __Pedestrian Detection and Direction Prediction using Video Processing__ [[code](https://github.com/A-Vaishnavi-1010/Pedestrian_Project)] [[ppt](https://github.com/A-Vaishnavi-1010/Pedestrian_Project)]
     
     The system used input video of pedestrian and three different approaches are implemented to detect the pedestrian and predict the direction of motion using video processing in MATLAB.
 
-* __Counting number of coins in an image using Image Processing__ [code](https://github.com/A-Vaishnavi-1010/Coins_Project)[Report](https://github.com/A-Vaishnavi-1010/Coins_Project)
+* __Counting number of coins in an image using Image Processing__ [[code](https://github.com/A-Vaishnavi-1010/Coins_Project)] [[Report](https://github.com/A-Vaishnavi-1010/Coins_Project)]
 
     Region segmentation is performed using different image processing techniques and hence identified coins and calculated the area of coin using MATLAB.
 
-* __Bank Management System__ [code](https://github.com/A-Vaishnavi-1010/Banking_System_Project)
+* __Bank Management System__ [[code](https://github.com/A-Vaishnavi-1010/Banking_System_Project)]
     
     Bank management system is implemented using Object Oriented Programming and file handling to create, modify, delete bank account and perform different tasks like money deposit, withdraw, balance check, etc.
 
-* __Rotation of Solar Panels for Maximum Utilization of Sunlight__ [code](https://github.com/A-Vaishnavi-1010/Solar_Panels_Project)[Report](https://github.com/A-Vaishnavi-1010/Solar_Panels_Project)
+* __Rotation of Solar Panels for Maximum Utilization of Sunlight__ [[code](https://github.com/A-Vaishnavi-1010/Solar_Panels_Project)] [[Report](https://github.com/A-Vaishnavi-1010/Solar_Panels_Project)]
     
     A system is implemented with a sensor, a microcontroller and an actuator. The direction of sunlight is observed and the solar panels are rotated accordingly for maximum utilization of available sunlight.
 
